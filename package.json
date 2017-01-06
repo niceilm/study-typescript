@@ -1,0 +1,38 @@
+{
+  "name": "study-typescript",
+  "version": "1.0.0",
+  "description": "## Link",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "ts-node": "^2.0.0",
+    "tslint": "^4.2.0",
+    "typescript": "^2.1.4",
+    "typings": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/chai": "^3.4.34",
+    "@types/core-js": "^0.9.35",
+    "@types/mocha": "^2.2.35",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "ts-node": "^2.0.0",
+    "tslint": "^4.2.0",
+    "typescript": "^2.1.4",
+    "typings": "^2.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niceilm/study-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niceilm/study-typescript/issues"
+  },
+  "homepage": "https://github.com/niceilm/study-typescript#readme"
+}
