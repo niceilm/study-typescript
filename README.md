@@ -35,6 +35,7 @@
 - [The Importance of import and export](http://benjamn.github.io/empirenode-2015/#/)
 - [Learn TypeScript in 30 Minutes](http://tutorialzine.com/2016/07/learn-typescript-in-30-minutes/)
 - [Playground](http://www.typescriptlang.org/play/)
+- [ES6 Features](https://github.com/FEDevelopers/es6features)[한글]
 
 ## Module
 - [ts-node - TypeScript execution environment for node](https://github.com/TypeStrong/ts-node)
